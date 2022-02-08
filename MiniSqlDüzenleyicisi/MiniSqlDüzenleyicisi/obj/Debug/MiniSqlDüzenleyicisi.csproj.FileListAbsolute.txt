@@ -1,0 +1,10 @@
+C:\Users\BUSE NUR\source\repos\MiniSqlDüzenleyicisi\MiniSqlDüzenleyicisi\bin\Debug\MiniSqlDüzenleyicisi.exe.config
+C:\Users\BUSE NUR\source\repos\MiniSqlDüzenleyicisi\MiniSqlDüzenleyicisi\bin\Debug\MiniSqlDüzenleyicisi.exe
+C:\Users\BUSE NUR\source\repos\MiniSqlDüzenleyicisi\MiniSqlDüzenleyicisi\bin\Debug\MiniSqlDüzenleyicisi.pdb
+C:\Users\BUSE NUR\source\repos\MiniSqlDüzenleyicisi\MiniSqlDüzenleyicisi\obj\Debug\MiniSqlDüzenleyicisi.csprojAssemblyReference.cache
+C:\Users\BUSE NUR\source\repos\MiniSqlDüzenleyicisi\MiniSqlDüzenleyicisi\obj\Debug\MiniSqlDüzenleyicisi.Form1.resources
+C:\Users\BUSE NUR\source\repos\MiniSqlDüzenleyicisi\MiniSqlDüzenleyicisi\obj\Debug\MiniSqlDüzenleyicisi.Properties.Resources.resources
+C:\Users\BUSE NUR\source\repos\MiniSqlDüzenleyicisi\MiniSqlDüzenleyicisi\obj\Debug\MiniSqlDüzenleyicisi.csproj.GenerateResource.cache
+C:\Users\BUSE NUR\source\repos\MiniSqlDüzenleyicisi\MiniSqlDüzenleyicisi\obj\Debug\MiniSqlDüzenleyicisi.csproj.CoreCompileInputs.cache
+C:\Users\BUSE NUR\source\repos\MiniSqlDüzenleyicisi\MiniSqlDüzenleyicisi\obj\Debug\MiniSqlDüzenleyicisi.exe
+C:\Users\BUSE NUR\source\repos\MiniSqlDüzenleyicisi\MiniSqlDüzenleyicisi\obj\Debug\MiniSqlDüzenleyicisi.pdb
